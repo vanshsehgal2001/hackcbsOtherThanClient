@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://group:group2001@hackcbs.lhddg.mongodb.net/hackcbs?retryWrites=true&w=majority",
+    "jwtSecret":"mysecret"
+}
